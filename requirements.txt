@@ -1,0 +1,10 @@
+
+matplotlib == 3.6.0
+seaborn==0.12.0
+
+yfinance == 0.1.75
+python-binance==1.0.16
+pandas==1.5.0
+PyPortfolioOpt==1.5.2
+plotly==5.10.0
+
